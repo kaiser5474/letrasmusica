@@ -16,8 +16,7 @@ const AppLetras = () => {
           cargando ? 'Cargando...' :
           <p className="text-center">
             Busca letras de tus artisatas favoritos
-          </p> }
-          
+          </p> }          
         </main>
       </>    
   )
